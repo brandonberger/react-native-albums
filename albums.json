@@ -1,0 +1,37 @@
+[
+	{
+		"title":"Peach Club",
+		"artist":"Emarosa",
+		"url":"https://emarosa.bandcamp.com/album/peach-club",
+		"image":"https://static1.squarespace.com/static/535eb4d7e4b08c41d0c4ae5c/t/5c5c72409b747a54aaa98135/1549562442303/Emarosa-Peach-Club.jpg",
+		"thumbnail_image":"http://townsquare.media/site/366/files/2019/01/Emarosa.jpg?w=980&q=75"
+	},
+	{
+		"title":"Amo",
+		"artist":"Bring Me The Horizon",
+		"url":"https://www.bmthofficial.com/",
+		"image":"http://www.bmthofficial.com/assets/img/og-image-amo-cover.jpg",
+		"thumbnail_image":"https://www.upsetmagazine.com/images/article/Artist-Images/B/Bring-Me-The-Horizon/_crop1500x1000/Bring-Me-The-Horizon-amo.jpg"
+	},
+	{
+		"title":"Graduation",
+		"artist":"Kanye West",
+		"url":"https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9",
+		"image":"https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Graduation_%28album%29.jpg/220px-Graduation_%28album%29.jpg",
+		"thumbnail_image":"https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/10/15/931/524/694940094001_5848980962001_5848980303001-vs.jpg?ve=1&tl=1"
+	},
+	{
+		"title":"My Everything",
+		"artist":"Ariana Grande",
+		"url":"https://www.amazon.com/My-Everything-Deluxe-Ariana-Grande/dp/B00LFN01I2",
+		"image":"https://is5-ssl.mzstatic.com/image/thumb/Music4/v4/52/1b/90/521b904e-6fe1-e54d-97dc-b515983f4f21/UMG_cvrart_00602537939497_01_RGB72_1500x1500_14UMGIM28138.jpg/600x600bf.png",
+		"thumbnail_image":"https://s2.r29static.com//bin/entry/b06/720x864,80/2110156/image.jpg"
+	},
+	{
+		"title":"I Think You Think Too Much Of Me",
+		"artist":"Eden",
+		"url":"https://shop.iameden.eu/products/12-ep-vinyl",
+		"image":"https://upload.wikimedia.org/wikipedia/en/b/b6/I_Think_You_Think_Too_Much_Of_Me_Album_Cover%2C_July_2016.jpg",
+		"thumbnail_image":"http://www.goldenplec.com/wp-content/uploads/2018/04/EDEN-e1525002113457.jpg"
+	}
+]
